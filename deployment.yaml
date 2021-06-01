@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: hello
-        image: umagahh15/hello:latest
+        image: noumagahh15/hello:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
